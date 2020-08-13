@@ -1,6 +1,2 @@
 # Portfolio-v1
-My portfolio
-
-
-
-Under construction
+My portfolio | Under construction
